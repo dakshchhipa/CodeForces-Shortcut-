@@ -7,4 +7,4 @@ View your friends ratings and upcoming contests via this extension
  On Top Right, Select Developer Mode
  Click on unpack extensions, and go to the folder where you extracted the file.
  
-<img width="959" alt="Screenshot 2023-09-11 201145" https://github.com/dakshchhipa/CodeForces-Shortcut-/blob/main/Screenshot%202023-09-11%20201145.png">
+<img width="959" alt="Screenshot 2023-09-11 201145" src= "https://github.com/dakshchhipa/CodeForces-Shortcut-/blob/main/Screenshot%202023-09-11%20201145.png">
